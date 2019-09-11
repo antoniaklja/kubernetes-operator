@@ -41,4 +41,4 @@ Watch **Jenkins Operator** instance being created:
 kubectl get pods -w
 ```
 
-Now **Jenkins Operator** should be up and running in `default` namespace.
+Now **Jenkins Operator** should be up and running in the `default` namespace.
